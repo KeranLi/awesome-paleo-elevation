@@ -33,7 +33,3 @@ PDFs belong in `_downloads/` and personal reading notes belong in `_private_note
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md). Do not submit copyrighted PDFs. Keep claims attributable to the cited paper and identify important limitations or unresolved uncertainty.
-
-## Attribution
-
-The initial repository structure, bibliography setup, and GitHub template were created with assistance from OpenAI Codex. Paper selection, PDF access, reading, and scientific interpretation are the responsibility of the maintainers.
