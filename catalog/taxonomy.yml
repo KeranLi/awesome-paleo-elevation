@@ -1,0 +1,43 @@
+version: 1
+updated: 2026-08-27
+controlled_vocabularies:
+  region:
+    - Tibetan Plateau
+    - Himalaya
+    - Central Tibet
+    - Northern Tibet
+    - Northeastern Tibetan Plateau
+    - Sierra Nevada
+    - Basin and Range
+    - Andes
+    - Global / methods
+  proxy_or_method:
+    - carbonate d18O
+    - carbonate d13C
+    - clumped isotope Delta47
+    - volcanic-glass d2H
+    - leaf-wax d2H
+    - soil brGDGT
+    - pollen / plant community
+    - mammal enamel / fossil record
+    - zircon U-Pb
+    - calcite U-Pb
+    - detrital zircon
+    - low-temperature thermochronology
+    - channel-profile inversion
+    - climate / isotope model
+    - stratigraphy / sedimentology
+  evidence_type:
+    - proxy calibration
+    - archive preservation / diagenesis
+    - regional reconstruction
+    - uplift mechanism
+    - paleo-drainage reconstruction
+    - paleotopography reconstruction
+    - biodiversity coupling
+    - method review
+    - critical review
+  priority:
+    A: direct paleo-elevation evidence or calibration
+    B: transfer method, regional extension, or coupled consequence
+    F: foundational theory or historical review

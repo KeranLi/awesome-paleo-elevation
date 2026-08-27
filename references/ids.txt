@@ -1,0 +1,27 @@
+# DOI seed set for the initial paleo-elevation library (verified via CrossRef/MCP)
+# One DOI per line; rerun the converter to refresh RIS/BibTeX exports.
+DOI:10.1130/b38560.1
+DOI:10.1016/j.palaeo.2026.114135
+DOI:10.1130/b38115.1
+DOI:10.1111/jse.13172
+DOI:10.1016/j.palaeo.2025.113256
+DOI:10.1029/2025jf008315
+DOI:10.1175/jhm-d-24-0155.1
+DOI:10.1016/j.chemgeo.2025.123087
+DOI:10.1021/acsomega.4c10175
+DOI:10.1016/j.gca.2024.04.007
+DOI:10.1016/j.gca.2024.04.009
+DOI:10.1126/sciadv.adn6842
+DOI:10.3390/atmos15050561
+DOI:10.1130/ges02851.1
+DOI:10.1016/j.gloplacha.2022.104009
+DOI:10.1016/j.quascirev.2023.108306
+DOI:10.1144/jgs2023-030
+DOI:10.1093/nsr/nwad008
+DOI:10.1360/tb-2023-0653
+DOI:10.1016/j.earscirev.2022.104068
+DOI:10.1093/nsr/nwv062
+DOI:10.2138/rmg.2007.66.2
+DOI:10.2138/rmg.2007.66.3
+DOI:10.1130/g20394.1
+DOI:10.2475/ajs.305.10.1033

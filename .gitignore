@@ -1,0 +1,11 @@
+# Local article files: keep copyrighted PDFs outside the public repository.
+*.pdf
+*.PDF
+*.zip
+*.7z
+
+# Local reading-workspace files.
+_downloads/
+_private/
+*.bak
+*.tmp
