@@ -1,18 +1,17 @@
-# 阅读卡片说明
+# Reading Notes
 
-每张卡片对应 `catalog/papers.csv` 的一个 `id`，文件名与 `notes_file` 相同。这里的文件是可选的阅读卡片，不替代根目录的 [papers.md](../papers.md) 总表，也不要求自动生成。建议在你手动下载并阅读原文后再补充自己的内容；没有阅读原文的记录明确标记为 `metadata-only`。
+This directory contains public English-language summaries of papers that have been fully read by a maintainer. It is intentionally selective: the paper list is the canonical public index, and an entry without a note is simply awaiting review.
 
-新卡片建议保留以下结构：
+Use the following structure for a new note:
 
-```markdown
-# 论文题名
-- 年份 / 作者 / 期刊 / DOI
-- 区域
-- 代理/方法
-- 引用文件（RIS、BibTeX）
-## 基于摘要的可核验要点
-## 阅读时重点
-## 状态
-```
+    # Paper title
+    Paper: Authors (Year). Journal. DOI link.
+    Status: Read on YYYY-MM-DD.
+    ## Question
+    ## Chronology and study area
+    ## Evidence and result
+    ## Major caveats
+    ## Maintainer interpretation
+    ## Follow-up checks
 
-阅读全文后，优先补充：样品坐标与年龄、高程估计及误差、校准方程、气候边界条件、独立验证、数据/代码链接和作者明确的限制。完成后把根目录 `papers.md` 对应条目的状态从 `to-read` 更新为 `reading` 或 `read`。
+Private notes, annotated PDFs, and unverified observations belong in _private_notes/ and are not committed.

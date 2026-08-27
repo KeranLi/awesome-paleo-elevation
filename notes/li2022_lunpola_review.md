@@ -1,70 +1,52 @@
-# Cenozoic paleoelevation history of the Lunpola Basin in Central Tibet: New evidence from volcanic glass hydrogen isotopes and a critical review
+# Cenozoic paleoelevation history of the Lunpola Basin in Central Tibet
 
-- **文章**：Lin Li; Haijian Lu; Carmala Garzione; Majie Fan（2022）。*Earth-Science Reviews*。DOI: [10.1016/j.earscirev.2022.104068](https://doi.org/10.1016/j.earscirev.2022.104068)
-- **地点**：Lunpola Basin、中央西藏；涉及 Dayu、Chebuli、Lunpori 和 Papa 剖面。
-- **阅读日期**：2026-08-27
-- **文章类型**：综述兼新证据研究
-- **本地 PDF**：`_downloads/Li 等 - 2022 - Cenozoic paleoelevation history of the Lunpola Basin in Central Tibet New evidence from volcanic glass hydrogen isotopes and a critical review.pdf`
-- **引用文件**：[RIS](../references/ris/crossref-10_1016_j_earscirev_2022_104068.ris) · [BibTeX](../references/bib/crossref-10_1016_j_earscirev_2022_104068.bib)
-- **状态**：`read`
+**Paper:** Li, L., Lu, H., Garzione, C., and Fan, M. (2022). *Earth-Science Reviews*. [10.1016/j.earscirev.2022.104068](https://doi.org/10.1016/j.earscirev.2022.104068)
 
-## 1. 研究问题
+**Status:** Read on 2026-08-27.
 
-文章重新评估 Lunpola Basin 新生代古高程历史，并讨论不同代理究竟记录了盆地底部、局地降水，还是整个流域的降水加权平均高程。作者特别关注火山玻璃氢同位素的解释，以及水汽路径、雨影效应和代理来源差异造成的系统误差。
+## Question
 
-## 2. 地层与时代框架
+The paper reassesses Cenozoic paleo-elevation in the Lunpola Basin, central Tibet. Its central methodological question is what different archives represent: basin-floor elevation, local precipitation, or precipitation-weighted mean catchment elevation.
 
-- **Dayu 剖面、Niubao 组**：笔记记录的 Fang et al.（2020）划分为下部约 50–40 Ma、中部约 41.8–26.5 Ma、上部约 26.5–21.5 Ma；Xiong et al.（2022）给出下部 50–40 Ma、中部 40–38 Ma、上部 37–29 Ma。两者主要差异是中、上部界线的划分；作者更倾向 Fang et al.（2020），因为其结合了凝灰岩和磁性地层年龄。
-- **Chebuli 剖面、Dingqinghu 组**：约 28.6–23.5 Ma；文中另有凝灰岩年龄约 13.99 ± 0.06 Ma。
-- **Lunpori 剖面**：中部 Dingqinghu 组约 20.6 Ma；哺乳动物化石记录约 18–16 Ma。
-- **Papa 剖面**：约 17.6 ± 0.3 Ma。
-- 部分上部 Niubao 组可能与 Dingqinghu 组同期沉积，反映河流/冲积扇—三角洲与湖相环境之间的横向相变，而不一定是简单的时间先后关系。
+## Chronology
 
-## 3. 方法与关键数据
+The review discusses the Dayu, Chebuli, Lunpori, and Papa sections. For the Dayu section, Fang et al. (2020) place the Lower, Middle, and Upper Niubao Formation at approximately 50-40 Ma, 41.8-26.5 Ma, and 26.5-21.5 Ma, respectively. Xiong et al. (2022) instead place the Middle and Upper members at 40-38 Ma and 37-29 Ma. The paper prefers the Fang et al. framework because it combines tuff and magnetostratigraphic ages.
 
-主要证据包括火山玻璃 δD、地层与磁性地层年代、现代地表水同位素、水汽路径分析，以及碳酸盐、长链叶蜡烷烃、团簇同位素、植物和动物化石等代理的交叉比较。笔记摘录的火山玻璃 δD 值约为 -34、-90、-98 和 -102‰（VSMOW），对应约 21–20 Ma 的样品。
+The Chebuli section records the Dingqinghu Formation from about 28.6 to 23.5 Ma, with an additional tuff age of 13.99 +/- 0.06 Ma. The middle Dingqinghu Formation is represented at Lunpori by a 20.6 Ma age and 18-16 Ma mammal fossils, and at Papa by an age of 17.6 +/- 0.3 Ma. Part of the Upper Niubao Formation may be laterally equivalent to the Dingqinghu Formation, reflecting changing depositional facies rather than a simple temporal succession.
 
-文章还指出，现代中央西藏超过 90% 的降水发生在 5–10 月；改则盆地和 Lunpola 盆地的南亚季风水汽贡献估计分别约为 36% 和 48%。这说明 Lunpola 所在经度可能已有来自南方的直接水汽输送，不能仅用“西风控制的内陆盆地”解释其同位素组成。
+## Evidence and result
 
-## 4. 核心结论
+The study combines volcanic-glass dD, stratigraphy and magnetostratigraphy, modern surface-water isotopes, moisture-pathway analysis, and a critical comparison with carbonate, leaf-wax, clumped-isotope, and fossil proxies. Notes from the reading record volcanic-glass dD values of approximately -34, -90, -98, and -102 per mil VSMOW for samples near 21-20 Ma.
 
-作者给出的核心估计是：**早中新世 Lunpola 盆地流域的降水加权平均高程约为 4.2–4.9 km**，并据此提出中央西藏三阶段地形增长模型。这个数值应理解为流域水汽/降水信号对应的平均高程，而不是自动等同于 Lunpola 盆地底部的海拔。
+The central estimate is an **early Miocene precipitation-weighted mean catchment elevation of 4.2-4.9 km** for the Lunpola Basin. The paper uses this evidence to argue for a three-stage topographic-growth model for central Tibet.
 
-文章的关键解释区分是：
+## Interpretation
 
-- 土壤碳酸盐氧同位素更接近局地降水和盆地底部高程；
-- 湖相碳酸盐可能整合来自高地的径流，因此更接近流域降水加权平均高程，通常高于盆地底部；
-- 背风侧的低 δ18O/δD 可能记录穿越的上游山脉高度，而非样品点本身的海拔。
+The paper stresses that the 4.2-4.9 km estimate is not automatically the elevation of the basin floor. Soil-carbonate oxygen isotopes are interpreted as more closely tied to local precipitation and basin-floor conditions. Lacustrine carbonates can integrate water from higher elevations and may instead reflect precipitation-weighted mean catchment elevation.
 
-## 5. 对代理解释的批判
+Modern central Tibet receives more than 90% of its precipitation from May to October. The discussion further notes that South Asian monsoon moisture may contribute directly to the Lunpola region, and that sub-cloud evaporation, surface-water recycling, and variable westerly influence modify isotope gradients across the plateau.
 
-### 雨影与“幽灵高原”
+## Major caveats
 
-在“高山夹低谷”的地形中，湿空气越过周围高山时先发生重同位素降水，剩余水汽进入中央谷地后仍然贫化。若把这种低 δ18O/δD 直接换算为样品点海拔，可能把低谷误判为高地，形成所谓“幽灵高原”。但典型雨影效应的前提是背风侧水汽确实来自迎风坡并翻越高山；如果水汽沿背风侧山谷输送，低同位素值也可能来自长距离雨出，而不是高山屏障。
+### Rain shadow and the phantom plateau
 
-### 水体来源不能混为一谈
+Low d18O or dD values on the leeward side of a high range can retain the isotopic depletion acquired while moisture crossed that range. Interpreting these values as local elevation can therefore overestimate basin elevation, producing a "phantom plateau." This explanation requires that leeward moisture actually crossed the relevant high topography. Moisture transported along a valley can also become isotopically depleted through progressive rainout without requiring a high local barrier.
 
-湖相碳酸盐记录局地降水与高海拔径流的混合信号，叶蜡长链烷烃则可能混合陆生高等植物和水生植物来源，不能简单把两种同位素当作同一水体的独立测量。笔记特别指出，Polissar et al.（2009）用 LEL 与 GMWL 交点去除蒸发影响的做法存在疑问，因为 δ18O 与 δD 未必来自同一类水体。
+### Different archives may record different water sources
 
-### 成岩、温度和蒸发
+Lacustrine carbonates may mix local precipitation with high-elevation runoff. Long-chain leaf-wax n-alkanes may mix terrestrial and aquatic sources. Such records cannot be treated automatically as independent measurements of the same water body. The reading notes also flag uncertainty in methods that combine local evaporation lines and global meteoric water lines when oxygen and hydrogen isotopes are not derived from equivalent water sources.
 
-DeCelles 等基于碳酸盐得到的 4500–5000 m 估计可能偏高：如果晚渐新世形成温度高于现代，同样的碳酸盐 δ18O 对应更高的土壤水 δ18O，换算出的古高程会降低。Chebuli Dingqinghu 组 C29 叶蜡 δD 给出的约 2770 m 低值，则可能受干旱气候和叶水/土壤水蒸发影响。
+### Temperature, evaporation, and source effects
 
-## 6. 与其他代理的关系
+Carbonate-based estimates can be biased if paleotemperatures differ from modern calibration conditions. Leaf-wax dD can be shifted by aridity and evaporation of leaf and soil water. BrGDGT and fossil-based reconstructions carry additional source, ecological, and phylogenetic assumptions.
 
-文章提醒，植物化石、花粉、叶片形态和 brGDGT 等方法都依赖额外假设：最近现生亲缘类群的生态需求不一定代表灭绝类群，叶片性状还会受到系统发育影响；brGDGT 在湖相环境中可能同时来自侵蚀土壤和湖内生物来源。稳定碳同位素随海拔升高而升高的关系，在湿润条件下更可靠，在高原干旱环境中斜率可能很低且拟合很弱。
+## Maintainer interpretation
 
-## 7. 我的阅读判断
+The paper's main contribution is not a single elevation value. It reframes paleo-elevation inference as a problem of moisture pathways and spatial representativeness. The 4.2-4.9 km value should be compared with basin-floor elevation, surrounding range elevation, or records from other basins only after establishing what water source and topographic domain each proxy represents.
 
-这篇文章最重要的贡献不是给出一个孤立的“中央西藏海拔值”，而是把古高程解释改写成一个水汽路径和空间代表性问题。4.2–4.9 km 是特定代理、年代和流域定义下的降水加权平均高程；使用它与盆地底部高程、周缘山脉高度或其他盆地记录比较时，必须先确认代理记录的水体来源和地形位置是否相同。
+## Follow-up checks
 
-## 8. 待继续核对
-
-- 三阶段地形增长模型各阶段的具体时间边界和高程范围。
-- 四个火山玻璃 δD 样品的样品位置、层位、测量误差和校准方程。
-- 4.2–4.9 km 区间的误差传播方法，以及它与其他独立代理的重叠区间。
-- Lunpola、改则和雅鲁藏布江水汽路径结论所使用的现代观测和模型数据。
-
-## 9. 来源说明
-
-本卡片依据本地 PDF 的人工阅读笔记整理；定量值和解释应回到 PDF 中的原始图表、正文页码和补充材料复核。CrossRef 仅用于书目信息核验。
+- Time boundaries and elevation ranges of the three-stage growth model.
+- Locations, stratigraphic positions, errors, and calibration of the four volcanic-glass samples.
+- Uncertainty propagation for the 4.2-4.9 km estimate.
+- Modern observations and models supporting moisture-pathway interpretations for Lunpola, Gaize, and the Yarlung Tsangpo Valley.

@@ -1,24 +1,23 @@
 # Contributing
 
-感谢维护和补充古高程研究文献。这个项目是人工策展的阅读清单，不是自动抓取数据库。
+Contributions are welcome. This repository is a curated reading list, not a PDF archive or an automatically harvested bibliography.
 
-## 添加一篇文章
+## Adding a Paper
 
-1. 先检查 `papers.md` 中是否已有相同 DOI。
-2. 从 DOI、期刊网站或机构数据库获取原文。
-3. 阅读后新增一个条目，至少填写：文章、地点、时代、方法、结论和状态。
-4. 结论尽量使用原文可核对的表述，并注明限制或争议。
-5. 如需机器筛选，再同步更新 `catalog/papers.csv`；RIS/BibTeX 只是辅助文件。
+1. Check [papers.md](papers.md) for an existing DOI.
+2. Add the paper to the most appropriate section using the format below.
+3. Use a DOI link whenever one exists.
+4. Keep the description concise and source-aware.
+5. Do not add a specific result unless it has been checked against the paper.
 
-## 文章状态
+    - [Paper title](https://doi.org/...) - Author et al. (Year). *Journal*. Region; age or interval; proxy or method. Brief, evidence-based finding. to-read
 
-- `to-read`：已收录，尚未完成阅读。
-- `reading`：正在阅读或整理图表。
-- `read`：已完成至少一次通读，并补充了自己的要点。
+Use the to-read status for entries not yet reviewed. Change it to read only after a full reading and add an English note under notes/ when a longer treatment is useful.
 
-## 提交规范
+## Style
 
-- 一篇文章一个条目，使用 DOI 去重。
-- 不提交受版权保护的 PDF、扫描件或未经授权的补充材料。
-- 保持 Markdown 简洁，避免把未经核对的推断写成事实。
-- 中文和英文文章均可收录；非英文文章请注明语言。
+- Write all public-facing content in English.
+- Use sentence case for titles and descriptions.
+- Use DOI-normalized entries to avoid duplicates.
+- Keep interpretation separate from the paper's stated conclusion.
+- Do not commit copyrighted PDFs, scanned articles, or private working notes.
