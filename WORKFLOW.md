@@ -1,6 +1,6 @@
 # Reading Workflow
 
-这个项目的核心流程是“本地阅读，公开记录”。PDF 放在 `_downloads/`，不会提交到 GitHub；阅读后的知识结论进入 `papers.md`，需要展开时再写入 `notes/`。
+这个项目的核心流程是“本地阅读，选择性公开记录”。PDF 放在 `_downloads/`，原始笔记放在 `_private_notes/`，两者都不会提交到 GitHub；确认过的知识结论进入 `papers.md`，需要展开时再写入 `notes/`。
 
 ## One Paper
 

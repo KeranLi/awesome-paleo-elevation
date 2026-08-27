@@ -7,5 +7,6 @@
 # Local reading-workspace files.
 _downloads/
 _private/
+_private_notes/
 *.bak
 *.tmp

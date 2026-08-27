@@ -9,6 +9,7 @@
 - [文章总表](papers.md)：本项目的主入口，手动维护。
 - [按月更新](updates/)：检索记录、研究进展和主题综述。
 - [阅读卡片](notes/)：读完文章后可补充的详细笔记，未阅读文章不会伪造结论。
+- `_private_notes/`：本地私有阅读笔记，不会同步到 GitHub。
 - [引用文件](references/)：可选的 RIS / BibTeX 文件，便于导入 Zotero、EndNote 或 LaTeX。
 - [结构化索引](catalog/papers.csv)：辅助筛选，不替代 `papers.md`。
 
@@ -29,6 +30,8 @@
 2. 自行从 DOI、期刊网站或机构数据库下载 PDF。
 3. 阅读后补充地点、时代、方法、结论、限制和数据链接。
 4. 对争议结论保留原文表述，并注明证据类型，不把单篇论文写成领域共识。
+
+建议先在 `_private_notes/` 记录零散想法、图表解读和疑问；完成核对后，再把确认过的内容整理到 `papers.md` 和 `notes/`。
 
 ## Contributing
 
