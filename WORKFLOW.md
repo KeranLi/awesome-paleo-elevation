@@ -8,7 +8,7 @@ Save the article in _downloads/. It is ignored by Git and is never pushed to Git
 
 ## 2. Create a Private Note
 
-Create _private_notes/<paper-id>.md. Record rough notes, page references, figure interpretation, questions, and tentative ideas there. This file is also ignored by Git.
+Copy [templates/private-reading-note-template.md](templates/private-reading-note-template.md) to _private_notes/<paper-id>.md. Record rough notes, page references, figure interpretation, questions, and tentative ideas there. This file is also ignored by Git.
 
 ## 3. Add a Public Paper Entry
 

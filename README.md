@@ -28,7 +28,7 @@ Each entry must have a stable bibliographic source, preferably a DOI, and a clea
 
 ## Local Reading Workspace
 
-PDFs belong in `_downloads/` and personal reading notes belong in `_private_notes/`. Both directories are ignored by Git. After reading a paper, add a concise, evidence-based public entry to [papers.md](papers.md) and optionally a detailed English summary under [notes/](notes/).
+PDFs belong in `_downloads/` and personal reading notes belong in `_private_notes/`. Both directories are ignored by Git. Start a local note by copying the versioned [private reading note template](templates/private-reading-note-template.md) into `_private_notes/` and renaming it to the paper ID. After reading a paper, add a concise, evidence-based public entry to [papers.md](papers.md) and optionally a detailed English summary under [notes/](notes/).
 
 ## Contributing
 
