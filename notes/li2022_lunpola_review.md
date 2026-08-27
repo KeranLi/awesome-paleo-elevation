@@ -4,6 +4,7 @@
 - 作者：Lin Li; Haijian Lu; Carmala Garzione; Majie Fan
 - 期刊：Earth-Science Reviews
 - DOI：10.1016/j.earscirev.2022.104068
+- 本地 PDF：`_downloads/Li 等 - 2022 - Cenozoic paleoelevation history of the Lunpola Basin in Central Tibet New evidence from volcanic glass hydrogen isotopes and a critical review.pdf`
 - 区域：Lunpola Basin；西藏中部
 - 代理/方法：火山玻璃氢同位素；批判性综述
 - 引用文件：[RIS](../references/ris/crossref-10_1016_j_earscirev_2022_104068.ris) · [BibTeX](../references/bib/crossref-10_1016_j_earscirev_2022_104068.bib)

@@ -2,6 +2,26 @@
 
 > 主清单。每条记录只保留手动阅读时需要的五个核心字段；`to-read` 条目中的结论不会由元数据推断。
 
+## Three-Paper Starter Set
+
+### [Orographic evolution of northern Tibet shaped vegetation and plant diversity in eastern Asia](https://doi.org/10.1126/sciadv.abc7741)
+
+- **文章**：Shu-Feng Li et al.（2021）。*Science Advances*。DOI: `10.1126/sciadv.abc7741`。
+- **地点**：北藏及东亚。
+- **时代**：待阅读后填写。
+- **方法**：地形/气候模拟与植被、植物多样性证据；具体组合待阅读。
+- **结论**：待阅读。摘要指出北藏造山通过增强冬季降水影响东亚植被与植物多样性。
+- **状态**：`to-read`
+
+### [Eocene to Miocene paleoclimate reconstruction of the northern Tibetan Plateau](https://doi.org/10.3389/feart.2023.1217304)
+
+- **文章**：Shien Li et al.（2023）。*Frontiers in Earth Science*。DOI: `10.3389/feart.2023.1217304`。
+- **地点**：西 Qaidam Basin、北部青藏高原。
+- **时代**：始新世—中新世。
+- **方法**：湖相沉积物沉积学、XRD 矿物学、碳酸盐碳/氧同位素。
+- **结论**：摘要报告约 40–32 Ma、22–20 Ma 和 13–8.2 Ma 三个干旱阶段，并强调蒸发对同位素的控制；古高程含义待阅读全文核对。
+- **状态**：`to-read`
+
 ## Reviews And Foundations
 
 ### [Paleoaltimetry reconstructions of the Tibetan Plateau: progress and contradictions](https://doi.org/10.1093/nsr/nwv062)
